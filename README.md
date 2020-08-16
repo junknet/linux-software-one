@@ -2,7 +2,4 @@
 | :--------- | ----------- |
 | mailspring | mail client |
 | plank      | docker      |
-|            |             |
-|            |             |
-|            |             |
 
